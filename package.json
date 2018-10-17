@@ -1,0 +1,18 @@
+{
+  "name": "nuber-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dilrong/nuber-server.git",
+  "author": "dilrong <wet932@naver.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.0",
+    "nodemon": "^1.18.4",
+    "ts-node": "^7.0.1",
+    "tslint-config-prettier": "^1.15.0",
+    "typescript": "^3.1.1"
+  },
+  "scripts": {
+    "dev": "cd src && nodemon --exec ts-node index.ts -e ts,graphql"
+  }
+}
