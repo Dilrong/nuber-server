@@ -29,7 +29,7 @@
     "graphql-tools": "^4.0.2",
     "graphql-yoga": "^1.16.7",
     "helmet": "^3.14.0",
-    "merge-graphql-schemas": "^1.5.7",
+    "merge-graphql-schemas": "^1.5.8",
     "morgan": "^1.9.1",
     "pg": "^7.6.0",
     "typeorm": "^0.2.8"
