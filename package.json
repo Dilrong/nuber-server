@@ -6,7 +6,7 @@
   "author": "dilrong <wet932@naver.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/cors": "^2.8.4",
+    "@types/cors": "^2.8.6",
     "@types/helmet": "^0.0.42",
     "@types/morgan": "^1.7.35",
     "@types/node": "^10.12.0",
